@@ -1,0 +1,21 @@
+body{
+	background-color:#d8e2dc;
+	font-family: Californian FB;
+}
+hr{
+	border-top-style:none;
+	border-width:2px;
+	border-color:#9d8189;
+}
+.pengalaman{
+	background-color:#ece4db;
+	font-family:Book Antiqua;
+}
+.matkul{
+	background-color:#e2e3dc;
+	font-family: Candara;
+}
+
+#judul{
+	color: #86626E;
+	}
